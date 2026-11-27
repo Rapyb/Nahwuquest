@@ -2,6 +2,6 @@
   "framework": null,
   "outputDirectory": "dist",
   "functions": {
-    "api/arena.py": { "includeFiles": "server.py" }
+    "api/arena.py": { "includeFiles": "{server.py,accounts.py,catalog.json}" }
   }
 }

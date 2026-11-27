@@ -9,12 +9,7 @@ function arenaView() {
   const questNames = {"i'rab":"Sprint I‘rāb", jumlah:"Reli Susun Kalimat"};
   main.innerHTML = '<section class="arenaBanner"><div><span class="label">MULTIPLAYER · QUEST RANKED</span><h1>Arena Nahwu</h1><p>Selesaikan lima soal dengan benar. Pemain pertama yang finis memenangkan balapan.</p></div><div class="arenaRank" id="arenaRank">Memuat rank…</div></section><p id="arenaNotice" role="status"></p><div id="arenaBody"></div>';
   const area = $('arenaBody'), notice = $('arenaNotice');
-  let token = user.arenaToken;
-  if (!token) {
-    token = Array.from(crypto.getRandomValues(new Uint8Array(32)), n=>n.toString(16).padStart(2,'0')).join('');
-    if (!save(p=>{p.arenaToken ||= token})) return;
-    token = user.arenaToken;
-  }
+  const token = user.arenaToken;
   let current, last = '', busy = false, quest = "i'rab", inputCode = '';
   function card(title) {
     const box = document.createElement('section');
@@ -42,7 +37,8 @@ function arenaView() {
       delete notice.dataset.connection;
       current = data.room;
       if (user.arenaXP!==data.xp || user.arenaRP!==data.rp || user.arenaRank!==data.rank) {
-        if (save(p=>Object.assign(p,{arenaXP:data.xp,arenaRP:data.rp,arenaRank:data.rank}))) {
+        Object.assign(user,{arenaXP:data.xp,arenaRP:data.rp,arenaRank:data.rank});
+        {
           $('playerInfo').textContent=user.name+' · ✦ '+(user.done.length*50+data.xp)+' XP';
         }
       }

@@ -1,0 +1,884 @@
+[
+  {
+    "title": "Desa Alif",
+    "theme": "Mengenal jenis kata",
+    "quests": [
+      {
+        "id": 0,
+        "lesson": [
+          "Isim",
+          "كِتَابٌ",
+          "Sebuah buku",
+          "Isim menamai benda, orang, tempat, atau konsep. Maknanya tidak terikat waktu. Pada contoh ini, kita bisa menunjuk benda yang dinamai.",
+          "Tanwin di akhir كِتَابٌ adalah salah satu petunjuk isim. Isim juga bisa muncul tanpa tanwin, misalnya الْكِتَابُ."
+        ],
+        "questions": [
+          [
+            "Mana nama tempat?",
+            "مَدْرَسَةٌ",
+            "جَلَسَ",
+            "فِي",
+            "مَدْرَسَةٌ menamai sekolah."
+          ],
+          [
+            "Apa arti كِتَابٌ?",
+            "Sebuah buku",
+            "Dia menulis",
+            "Di dalam",
+            "Tanwin di akhir كِتَابٌ adalah salah satu petunjuk isim. Isim juga bisa muncul tanpa tanwin, misalnya الْكِتَابُ."
+          ],
+          [
+            "Mana nama orang?",
+            "زَيْدٌ",
+            "ذَهَبَ",
+            "عَلَى",
+            "Zaid adalah nama seseorang."
+          ],
+          [
+            "Apa yang dinamai قَلَمٌ?",
+            "Benda",
+            "Waktu lampau",
+            "Tindakan",
+            "Qalam berarti pena."
+          ],
+          [
+            "Kata الْمَسْجِدُ termasuk …",
+            "Isim",
+            "Fi’il",
+            "Huruf",
+            "Masjid menamai tempat ibadah."
+          ]
+        ]
+      },
+      {
+        "id": 1,
+        "lesson": [
+          "Fi’il",
+          "كَتَبَ زَيْدٌ",
+          "Zaid telah menulis.",
+          "Fi’il menyatakan perbuatan yang berkaitan dengan waktu. كَتَبَ adalah fi’il māḍī, bentuk yang menunjukkan perbuatan lampau.",
+          "Untuk kegiatan yang sedang atau akan berlangsung, bentuknya dapat berubah menjadi يَكْتُبُ. Perhatikan perubahan pada awal dan bunyi kata."
+        ],
+        "questions": [
+          [
+            "Pilih tindakan yang telah terjadi.",
+            "جَلَسَ",
+            "كِتَابٌ",
+            "إِلَى",
+            "جَلَسَ berarti dia telah duduk."
+          ],
+          [
+            "Pilih makna يَكْتُبُ.",
+            "Dia sedang atau akan menulis",
+            "Sebuah buku",
+            "Dia telah membaca",
+            "Untuk kegiatan yang sedang atau akan berlangsung, bentuknya dapat berubah menjadi يَكْتُبُ. Perhatikan perubahan pada awal dan bunyi kata."
+          ],
+          [
+            "Pilih makna جَلَسَ.",
+            "Dia telah duduk",
+            "Kursi",
+            "Duduklah!",
+            "Jalasa menyatakan perbuatan lampau."
+          ],
+          [
+            "Yang menunjukkan perbuatan membaca ialah …",
+            "قَرَأَ",
+            "كِتَابٌ",
+            "مِنْ",
+            "Qara’a berarti dia telah membaca."
+          ],
+          [
+            "Apa pembeda utama fi’il dari isim?",
+            "Perbuatan yang terkait waktu",
+            "Jumlah hurufnya",
+            "Selalu berawalan ال",
+            "Fi’il menunjukkan tindakan beserta waktunya."
+          ]
+        ]
+      },
+      {
+        "id": 2,
+        "lesson": [
+          "Huruf",
+          "فِي الْفَصْلِ",
+          "Di dalam kelas",
+          "Dalam pembagian kata nahwu, huruf adalah kata tugas. Makna فِي menunjukkan hubungan tempat ketika dipasangkan dengan الْفَصْلِ.",
+          "Bedakan فِي (di dalam), مِنْ (dari), dan إِلَى (menuju). Pilih hubungan yang sesuai dengan maksud kalimat."
+        ],
+        "questions": [
+          [
+            "Lengkapi frasa “dari rumah”.",
+            "مِنَ الْبَيْتِ",
+            "فِي الْبَيْتِ",
+            "إِلَى الْبَيْتِ",
+            "مِنْ menyatakan asal. Bunyinya menjadi mina sebelum الْبَيْتِ dalam bacaan bersambung."
+          ],
+          [
+            "Mana yang berarti “menuju”?",
+            "إِلَى",
+            "عَلَى",
+            "فِي",
+            "Bedakan فِي (di dalam), مِنْ (dari), dan إِلَى (menuju). Pilih hubungan yang sesuai dengan maksud kalimat."
+          ],
+          [
+            "Dengan kata mana kita melengkapi “buku di atas meja”?",
+            "عَلَى",
+            "إِلَى",
+            "مِنْ",
+            "‘Alā menunjukkan posisi di atas."
+          ],
+          [
+            "Mana yang terdiri atas huruf jar dan isim?",
+            "فِي بَيْتٍ",
+            "بَيْتٌ كَبِيرٌ",
+            "جَلَسَ زَيْدٌ",
+            "Fī menerangkan hubungan tempat dengan bayt."
+          ],
+          [
+            "Apa yang ditunjukkan مِنْ dalam مِنْ بَلَدٍ?",
+            "Asal",
+            "Tujuan",
+            "Waktu lampau",
+            "Min baladin berarti dari sebuah negeri."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pasar Kalimat",
+    "theme": "Menyusun kalimat sederhana",
+    "quests": [
+      {
+        "id": 3,
+        "lesson": [
+          "Mubtada dan khabar",
+          "الْبَيْتُ كَبِيرٌ",
+          "Rumah itu besar.",
+          "الْبَيْتُ adalah mubtada, hal yang dibicarakan. كَبِيرٌ adalah khabar yang memberi informasi tentangnya. Gabungannya sudah menyampaikan suatu pernyataan.",
+          "Bandingkan dengan الْبَيْتُ الْكَبِيرُ, “rumah yang besar”. Kata sifat yang juga memakai ال di sini membentuk frasa bersama kata rumah."
+        ],
+        "questions": [
+          [
+            "Dalam الطَّالِبُ نَشِيطٌ, apa khabarnya?",
+            "نَشِيطٌ",
+            "الطَّالِبُ",
+            "Keduanya",
+            "نَشِيطٌ memberi informasi bahwa siswa itu aktif."
+          ],
+          [
+            "Pilih pernyataan “pintu itu terbuka”.",
+            "الْبَابُ مَفْتُوحٌ",
+            "الْبَابُ الْمَفْتُوحُ",
+            "بَابُ الْفَصْلِ",
+            "Bandingkan dengan الْبَيْتُ الْكَبِيرُ, “rumah yang besar”. Kata sifat yang juga memakai ال di sini membentuk frasa bersama kata rumah."
+          ],
+          [
+            "Dalam الْمَاءُ بَارِدٌ, hal yang dibicarakan ialah …",
+            "الْمَاءُ",
+            "بَارِدٌ",
+            "Keduanya khabar",
+            "Air adalah mubtada yang diberi keterangan dingin."
+          ],
+          [
+            "Makna الْبَيْتُ الْكَبِيرُ sebagai frasa ialah …",
+            "Rumah yang besar itu",
+            "Rumah itu besar",
+            "Di rumah besar",
+            "Kata kedua menjadi sifat dari kata rumah."
+          ],
+          [
+            "Lengkapi “ilmu itu bermanfaat”, الْعِلْمُ …",
+            "نَافِعٌ",
+            "فِي",
+            "مِنْ",
+            "Nāfi‘un memberi keterangan tentang ilmu."
+          ]
+        ]
+      },
+      {
+        "id": 4,
+        "lesson": [
+          "Fi’il dan fa’il",
+          "جَلَسَ الطَّالِبُ",
+          "Siswa itu duduk.",
+          "Temukan perbuatannya dahulu, lalu tanyakan siapa yang melakukannya. جَلَسَ adalah fi’il, sedangkan الطَّالِبُ adalah fa’il atau pelaku.",
+          "Dalam contoh dengan pelaku berupa isim tunggal ini, fa’il berakhir dengan dammah. Terjemahan Indonesia lazim menempatkan pelaku lebih dahulu."
+        ],
+        "questions": [
+          [
+            "Siapa pelaku dalam ذَهَبَ الْمُعَلِّمُ?",
+            "الْمُعَلِّمُ",
+            "ذَهَبَ",
+            "Tidak ada pelaku",
+            "Guru itulah yang pergi."
+          ],
+          [
+            "Pilih fi’il dalam دَخَلَ زَيْدٌ.",
+            "دَخَلَ",
+            "زَيْدٌ",
+            "Keduanya",
+            "Dalam contoh dengan pelaku berupa isim tunggal ini, fa’il berakhir dengan dammah. Terjemahan Indonesia lazim menempatkan pelaku lebih dahulu."
+          ],
+          [
+            "Pilih pelaku dalam نَامَ الطِّفْلُ.",
+            "الطِّفْلُ",
+            "نَامَ",
+            "Tidak ada",
+            "Anak itulah yang tidur."
+          ],
+          [
+            "Apa status fa’il?",
+            "Marfu’",
+            "Manshub",
+            "Majrur",
+            "Fa’il memiliki kedudukan rafa’."
+          ],
+          [
+            "Dalam ضَحِكَ زَيْدٌ, apa perbuatannya?",
+            "Tertawa",
+            "Duduk",
+            "Membaca",
+            "Ḍaḥika berarti telah tertawa."
+          ]
+        ]
+      },
+      {
+        "id": 5,
+        "lesson": [
+          "Huruf jar",
+          "إِلَى الْمَدْرَسَةِ",
+          "Ke sekolah",
+          "Kata إِلَى adalah huruf jar. Isim sesudahnya, الْمَدْرَسَةِ, berstatus majrur. Tanda yang tampak pada contoh isim tunggal ini adalah kasrah.",
+          "Untuk membaca akhir kata, cari dahulu hubungan antarkata. Setelah فِي, kata الْبَيْتُ dalam bentuk lepas menjadi الْبَيْتِ."
+        ],
+        "questions": [
+          [
+            "Lengkapi فِي … dengan bentuk tepat.",
+            "الْفَصْلِ",
+            "الْفَصْلَ",
+            "الْفَصْلُ",
+            "Kasrah menandai isim tunggal ini sebagai majrur."
+          ],
+          [
+            "Mana huruf jar dalam عَلَى الْمَكْتَبِ?",
+            "عَلَى",
+            "الْمَكْتَبِ",
+            "Keduanya",
+            "Untuk membaca akhir kata, cari dahulu hubungan antarkata. Setelah فِي, kata الْبَيْتُ dalam bentuk lepas menjadi الْبَيْتِ."
+          ],
+          [
+            "Pilih bentuk untuk “dari pasar itu”.",
+            "مِنَ السُّوقِ",
+            "مِنَ السُّوقُ",
+            "مِنَ السُّوقَ",
+            "As-sūq mengikuti huruf jar min."
+          ],
+          [
+            "Apa tanda jar pada الْبَيْتِ?",
+            "Kasrah",
+            "Dammah",
+            "Fathah",
+            "Huruf terakhir تِ dibaca dengan kasrah."
+          ],
+          [
+            "Lengkapi “di atas kursi itu”.",
+            "عَلَى الْكُرْسِيِّ",
+            "إِلَى الْكُرْسِيِّ",
+            "مِنَ الْكُرْسِيِّ",
+            "‘Alā menyatakan posisi di atas."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Oasis Isyarah",
+    "theme": "Menunjuk dan mengganti nama",
+    "quests": [
+      {
+        "id": 6,
+        "lesson": [
+          "Penunjuk dekat",
+          "هَذَا قَلَمٌ",
+          "Ini sebuah pena.",
+          "هَذَا digunakan untuk menunjuk satu benda atau orang mudzakkar yang dekat. قَلَمٌ menjadi khabar yang menjelaskan apa yang ditunjuk.",
+          "Untuk bentuk muannats tunggal, gunakan هَذِهِ. Contohnya هَذِهِ حَقِيبَةٌ berarti ini sebuah tas."
+        ],
+        "questions": [
+          [
+            "Lengkapi … سَيَّارَةٌ (ini sebuah mobil).",
+            "هَذِهِ",
+            "هَذَا",
+            "هُوَ",
+            "سَيَّارَةٌ adalah isim muannats tunggal."
+          ],
+          [
+            "Pilih “ini sebuah buku”.",
+            "هَذَا كِتَابٌ",
+            "تِلْكَ حَقِيبَةٌ",
+            "هُوَ طَالِبٌ",
+            "Untuk bentuk muannats tunggal, gunakan هَذِهِ. Contohnya هَذِهِ حَقِيبَةٌ berarti ini sebuah tas."
+          ],
+          [
+            "Tunjuk pintu yang dekat.",
+            "هَذَا بَابٌ",
+            "ذَلِكَ بَابٌ",
+            "تِلْكَ بَابٌ",
+            "Bāb adalah mudzakkar tunggal dan jaraknya dekat."
+          ],
+          [
+            "Apa yang ditunjuk هَذِهِ dalam هَذِهِ شَجَرَةٌ?",
+            "Sebatang pohon dekat",
+            "Sebuah pena jauh",
+            "Dua pohon",
+            "Syajarah merupakan muannats tunggal."
+          ],
+          [
+            "Lengkapi … مُعَلِّمَةٌ untuk guru perempuan di dekatmu.",
+            "هَذِهِ",
+            "هَذَا",
+            "ذَلِكَ",
+            "Hādhihi dipakai untuk muannats tunggal yang dekat."
+          ]
+        ]
+      },
+      {
+        "id": 7,
+        "lesson": [
+          "Penunjuk jauh",
+          "تِلْكَ شَجَرَةٌ",
+          "Itu sebatang pohon.",
+          "تِلْكَ menunjuk sesuatu yang jauh dan berjenis muannats tunggal. Untuk mudzakkar tunggal, pasangannya adalah ذَلِكَ.",
+          "Tentukan jarak dan jenis kata sebelum memilih penunjuk. شَجَرَةٌ yang jauh memakai تِلْكَ, sedangkan بَيْتٌ yang jauh memakai ذَلِكَ."
+        ],
+        "questions": [
+          [
+            "Tunjuk rumah yang jauh.",
+            "ذَلِكَ بَيْتٌ",
+            "هَذَا بَيْتٌ",
+            "تِلْكَ بَيْتٌ",
+            "بَيْتٌ adalah mudzakkar, sedangkan jaraknya jauh."
+          ],
+          [
+            "Apa arti تِلْكَ مَدْرَسَةٌ?",
+            "Itu sebuah sekolah",
+            "Ini sebuah sekolah",
+            "Saya di sekolah",
+            "Tentukan jarak dan jenis kata sebelum memilih penunjuk. شَجَرَةٌ yang jauh memakai تِلْكَ, sedangkan بَيْتٌ yang jauh memakai ذَلِكَ."
+          ],
+          [
+            "Lengkapi … قَلَمٌ untuk pena yang jauh.",
+            "ذَلِكَ",
+            "هَذَا",
+            "هَذِهِ",
+            "Dzālika menunjuk mudzakkar tunggal jauh."
+          ],
+          [
+            "Untuk tas yang jauh, penunjuknya …",
+            "تِلْكَ",
+            "هَذِهِ",
+            "هَذَا",
+            "Ḥaqībah adalah muannats tunggal."
+          ],
+          [
+            "Pasangan jarak yang tepat untuk rumah ialah …",
+            "هَذَا dekat, ذَلِكَ jauh",
+            "هَذَا jauh, ذَلِكَ dekat",
+            "Keduanya jauh",
+            "Keduanya dapat menunjuk bayt tetapi berlainan jarak."
+          ]
+        ]
+      },
+      {
+        "id": 8,
+        "lesson": [
+          "Dhamir terpisah",
+          "هِيَ مُعَلِّمَةٌ",
+          "Dia seorang guru perempuan.",
+          "Dhamir menggantikan penyebutan nama. هِيَ merujuk kepada dia perempuan, sedangkan هُوَ merujuk kepada dia laki-laki.",
+          "Setelah nama مَرْيَمُ disebutkan, kalimat berikutnya dapat memakai هِيَ. Pilih kata ganti berdasarkan siapa yang dirujuk."
+        ],
+        "questions": [
+          [
+            "Gantikan nama أَحْمَدُ dengan kata ganti.",
+            "هُوَ",
+            "هِيَ",
+            "أَنَا",
+            "Ahmad adalah orang ketiga laki-laki tunggal."
+          ],
+          [
+            "Pilih kata ganti untuk diri sendiri.",
+            "أَنَا",
+            "هُوَ",
+            "أَنْتَ",
+            "Setelah nama مَرْيَمُ disebutkan, kalimat berikutnya dapat memakai هِيَ. Pilih kata ganti berdasarkan siapa yang dirujuk."
+          ],
+          [
+            "Kata ganti نَحْنُ berarti …",
+            "Kami atau kita",
+            "Dia perempuan",
+            "Kamu laki-laki",
+            "Naḥnu adalah orang pertama jamak."
+          ],
+          [
+            "Pilih kata ganti untuk Fatimah.",
+            "هِيَ",
+            "هُوَ",
+            "أَنَا",
+            "Fatimah adalah orang ketiga perempuan."
+          ],
+          [
+            "Saat berbicara kepada satu anak laki-laki, “kamu” ialah …",
+            "أَنْتَ",
+            "أَنَا",
+            "هُوَ",
+            "Anta adalah kata ganti orang kedua laki-laki tunggal."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kebun Sifat",
+    "theme": "Merangkai frasa benda",
+    "quests": [
+      {
+        "id": 9,
+        "lesson": [
+          "Na’at dan man’ut",
+          "قَلَمٌ جَدِيدٌ",
+          "Sebuah pena baru",
+          "Kata pertama menamai benda yang diterangkan. Kata kedua adalah na’at yang memberi sifat. Dalam contoh ini keduanya mudzakkar, tunggal, dan tak tentu.",
+          "Bila bendanya muannats seperti حَقِيبَةٌ, bentuk sifatnya juga disesuaikan menjadi جَدِيدَةٌ."
+        ],
+        "questions": [
+          [
+            "Lengkapi حَقِيبَةٌ …",
+            "جَدِيدَةٌ",
+            "جَدِيدٌ",
+            "جَدِيدَانِ",
+            "Tas adalah isim muannats tunggal."
+          ],
+          [
+            "Mana sifat dalam بَيْتٌ صَغِيرٌ?",
+            "صَغِيرٌ",
+            "بَيْتٌ",
+            "Keduanya",
+            "Bila bendanya muannats seperti حَقِيبَةٌ, bentuk sifatnya juga disesuaikan menjadi جَدِيدَةٌ."
+          ],
+          [
+            "Dalam مَدْرَسَةٌ كَبِيرَةٌ apa man’utnya?",
+            "مَدْرَسَةٌ",
+            "كَبِيرَةٌ",
+            "Keduanya sifat",
+            "Sekolah adalah benda yang diterangkan."
+          ],
+          [
+            "Pilih “sebuah pintu kecil”.",
+            "بَابٌ صَغِيرٌ",
+            "بَابٌ صَغِيرَةٌ",
+            "الْبَابُ صَغِيرٌ",
+            "Isim dan sifatnya sama-sama mudzakkar dan tak tentu."
+          ],
+          [
+            "Makna كِتَابٌ مُفِيدٌ sebagai frasa ialah …",
+            "Sebuah buku yang bermanfaat",
+            "Buku siswa itu",
+            "Dia membaca buku",
+            "Mufīd menerangkan sifat buku."
+          ]
+        ]
+      },
+      {
+        "id": 10,
+        "lesson": [
+          "Ma’rifah dan nakirah",
+          "الْقَلَمُ الْجَدِيدُ",
+          "Pena baru itu",
+          "قَلَمٌ dapat merujuk pada suatu pena yang belum ditentukan. الْقَلَمُ merujuk pada pena tertentu. Awalan ال adalah salah satu cara menandai ma’rifah.",
+          "Jika sifatnya menerangkan isim yang memakai ال, sifat itu juga dibuat tertentu. Pada contoh, kata الْجَدِيدُ mengikuti الْقَلَمُ."
+        ],
+        "questions": [
+          [
+            "Pilih frasa “buku besar itu”.",
+            "الْكِتَابُ الْكَبِيرُ",
+            "كِتَابٌ كَبِيرٌ",
+            "الْكِتَابُ كَبِيرٌ",
+            "Kedua kata dalam frasa sifat ini memakai ال."
+          ],
+          [
+            "Pilih bentuk tak tentu dari الْبَابُ.",
+            "بَابٌ",
+            "الْبَابِ",
+            "الْبَابَ",
+            "Jika sifatnya menerangkan isim yang memakai ال, sifat itu juga dibuat tertentu. Pada contoh, kata الْجَدِيدُ mengikuti الْقَلَمُ."
+          ],
+          [
+            "Pilih isim tertentu dengan ال.",
+            "الْمَكْتَبُ",
+            "مَكْتَبٌ",
+            "كَتَبَ",
+            "Al-maktab menunjuk meja atau kantor tertentu."
+          ],
+          [
+            "Mengapa قَلَمٌ disebut nakirah?",
+            "Merujuk pada pena yang belum ditentukan",
+            "Menunjukkan waktu",
+            "Menunjukkan arah",
+            "Nakirah merujuk anggota jenis secara umum."
+          ],
+          [
+            "Pasangan “sebuah rumah / rumah itu” ialah …",
+            "بَيْتٌ / الْبَيْتُ",
+            "الْبَيْتُ / بَيْتٌ",
+            "بَيْتٌ / بَيْتٍ",
+            "Awalan ال menjadikan kata rumah tertentu."
+          ]
+        ]
+      },
+      {
+        "id": 11,
+        "lesson": [
+          "Idhafah",
+          "بَابُ الْفَصْلِ",
+          "Pintu kelas",
+          "Idhafah menghubungkan dua isim. بَابُ adalah mudhaf, sedangkan الْفَصْلِ adalah mudhaf ilaih. Hubungannya bisa berarti bagian dari sesuatu.",
+          "Dalam susunan contoh ini, isim pertama tidak memakai ال atau tanwin. Isim kedua berstatus majrur. Jadi “buku siswa itu” dibaca كِتَابُ الطَّالِبِ."
+        ],
+        "questions": [
+          [
+            "Pilih susunan “pintu rumah itu”.",
+            "بَابُ الْبَيْتِ",
+            "بَابٌ الْبَيْتُ",
+            "الْبَابُ الْبَيْتُ",
+            "بَابُ disandarkan kepada الْبَيْتِ."
+          ],
+          [
+            "Apa fungsi الْفَصْلِ pada contoh utama?",
+            "Mudhaf ilaih",
+            "Fa’il",
+            "Na’at",
+            "Dalam susunan contoh ini, isim pertama tidak memakai ال atau tanwin. Isim kedua berstatus majrur. Jadi “buku siswa itu” dibaca كِتَابُ الطَّالِبِ."
+          ],
+          [
+            "Pada كِتَابُ الْمُعَلِّمِ, kata pertama ialah …",
+            "Mudhaf",
+            "Mudhaf ilaih",
+            "Fa’il",
+            "Kitāb adalah benda yang disandarkan kepada guru."
+          ],
+          [
+            "Pilih akhir kata kedua dalam قَلَمُ الطَّالِبِ.",
+            "Kasrah",
+            "Fathah",
+            "Dammah",
+            "Aṭ-ṭālibi adalah mudhaf ilaih yang majrur."
+          ],
+          [
+            "Apa arti مِفْتَاحُ الْبَيْتِ?",
+            "Kunci rumah itu",
+            "Rumah itu besar",
+            "Pintu kelas",
+            "Miftāḥ berarti kunci yang disandarkan kepada rumah."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pelabuhan Waktu",
+    "theme": "Mengubah bentuk kata kerja",
+    "quests": [
+      {
+        "id": 12,
+        "lesson": [
+          "Fi’il madhi",
+          "فَتَحَ التَّاجِرُ الْبَابَ",
+          "Pedagang itu telah membuka pintu.",
+          "فَتَحَ menandai peristiwa yang telah terjadi. Pelakunya adalah التَّاجِرُ. Benda yang dikenai perbuatan ialah الْبَابَ.",
+          "Tanyakan “kapan” untuk mengenali waktu dan “siapa” untuk mengenali pelaku. Keduanya menjawab pertanyaan yang berbeda."
+        ],
+        "questions": [
+          [
+            "Mana perbuatan lampau?",
+            "فَتَحَ",
+            "يَفْتَحُ",
+            "اِفْتَحْ",
+            "فَتَحَ merupakan bentuk lampau."
+          ],
+          [
+            "Apa yang dibuka dalam contoh?",
+            "Pintu",
+            "Kapal",
+            "Toko",
+            "Tanyakan “kapan” untuk mengenali waktu dan “siapa” untuk mengenali pelaku. Keduanya menjawab pertanyaan yang berbeda."
+          ],
+          [
+            "Pilih “dia telah masuk”.",
+            "دَخَلَ",
+            "يَدْخُلُ",
+            "اُدْخُلْ",
+            "Dakhala adalah fi’il madhi."
+          ],
+          [
+            "Apa pelakunya dalam فَتَحَ زَيْدٌ الْبَابَ?",
+            "زَيْدٌ",
+            "الْبَابَ",
+            "فَتَحَ",
+            "Zaid melakukan tindakan membuka."
+          ],
+          [
+            "Apa perbedaan جَلَسَ dan يَجْلِسُ?",
+            "Lampau dan sekarang/akan datang",
+            "Benda dan sifat",
+            "Pelaku dan objek",
+            "Yang pertama madhi, yang kedua mudhari’."
+          ]
+        ]
+      },
+      {
+        "id": 13,
+        "lesson": [
+          "Fi’il mudhari’",
+          "يَقْرَأُ زَيْدٌ كِتَابًا",
+          "Zaid sedang membaca sebuah buku.",
+          "يَقْرَأُ menunjukkan kegiatan sekarang atau akan datang. Keterangan waktu membantu menentukan terjemahannya secara lebih tepat.",
+          "Bandingkan قَرَأَ (dia telah membaca) dengan يَقْرَأُ (dia sedang atau akan membaca). Keduanya berasal dari akar yang sama."
+        ],
+        "questions": [
+          [
+            "Pilih “dia sedang menulis”.",
+            "يَكْتُبُ",
+            "كَتَبَ",
+            "اُكْتُبْ",
+            "يَكْتُبُ adalah bentuk mudhari’."
+          ],
+          [
+            "Pilih bentuk lampau dari يَقْرَأُ.",
+            "قَرَأَ",
+            "يَقْرَأُ",
+            "قَلَمٌ",
+            "Bandingkan قَرَأَ (dia telah membaca) dengan يَقْرَأُ (dia sedang atau akan membaca). Keduanya berasal dari akar yang sama."
+          ],
+          [
+            "Pilih mudhari’ dari ذَهَبَ.",
+            "يَذْهَبُ",
+            "اِذْهَبْ",
+            "ذَهَبَ",
+            "Yadzhabu menunjukkan pergi pada masa kini atau nanti."
+          ],
+          [
+            "Apa makna الْآنَ dalam يَكْتُبُ الْآنَ?",
+            "Sekarang",
+            "Kemarin",
+            "Dahulu",
+            "Al-āna memperjelas waktu berlangsungnya kegiatan."
+          ],
+          [
+            "Apa perbuatan dalam تَقْرَأُ مَرْيَمُ?",
+            "Membaca",
+            "Menulis",
+            "Membuka",
+            "Taqra’u menyatakan kegiatan membaca."
+          ]
+        ]
+      },
+      {
+        "id": 14,
+        "lesson": [
+          "Fi’il amr",
+          "اِفْتَحِ الْبَابَ",
+          "Bukalah pintu itu.",
+          "Fi’il amr meminta lawan bicara melakukan tindakan. Bentuk perintah untuk satu laki-laki dari فَتَحَ adalah اِفْتَحْ.",
+          "Saat dibaca bersambung dengan الْبَابَ, akhir اِفْتَحْ mendapat kasrah penghubung. Maknanya tetap berupa perintah."
+        ],
+        "questions": [
+          [
+            "Pilih perintah “tulislah!”.",
+            "اُكْتُبْ",
+            "كَتَبَ",
+            "يَكْتُبُ",
+            "اُكْتُبْ ditujukan kepada lawan bicara."
+          ],
+          [
+            "Apa maksud اِجْلِسْ?",
+            "Duduklah!",
+            "Dia telah duduk",
+            "Sebuah kursi",
+            "Saat dibaca bersambung dengan الْبَابَ, akhir اِفْتَحْ mendapat kasrah penghubung. Maknanya tetap berupa perintah."
+          ],
+          [
+            "Perintah untuk membaca ialah …",
+            "اِقْرَأْ",
+            "قَرَأَ",
+            "يَقْرَأُ",
+            "Iqra’ meminta lawan bicara membaca."
+          ],
+          [
+            "Mana kalimat perintah?",
+            "اُدْخُلْ",
+            "دَخَلَ",
+            "يَدْخُلُ",
+            "Udkhul berarti masuklah."
+          ],
+          [
+            "Kepada siapa اُكْتُبْ ditujukan dalam bentuk ini?",
+            "Satu lawan bicara laki-laki",
+            "Orang ketiga perempuan",
+            "Dua orang",
+            "Bentuk tunggal ini memberi perintah langsung kepada lawan bicara laki-laki."
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Menara I’rab",
+    "theme": "Menelusuri fungsi akhir kata",
+    "quests": [
+      {
+        "id": 15,
+        "lesson": [
+          "Maf’ul bih",
+          "قَرَأَتْ مَرْيَمُ الْكِتَابَ",
+          "Maryam membaca buku itu.",
+          "Setelah menemukan pelaku مَرْيَمُ, tanyakan “apa yang dibaca?”. Jawabannya الْكِتَابَ. Inilah maf’ul bih atau objek langsung.",
+          "Maf’ul bih berstatus manshub. Pada contoh isim tunggal ini tandanya fathah. Jangan menentukan pelaku atau objek hanya dari urutan kata."
+        ],
+        "questions": [
+          [
+            "Apa objek dalam كَتَبَ زَيْدٌ الدَّرْسَ?",
+            "الدَّرْسَ",
+            "زَيْدٌ",
+            "كَتَبَ",
+            "Yang ditulis adalah pelajaran."
+          ],
+          [
+            "Tanda nashab pada الْكِتَابَ ialah …",
+            "Fathah",
+            "Kasrah",
+            "Dammah",
+            "Maf’ul bih berstatus manshub. Pada contoh isim tunggal ini tandanya fathah. Jangan menentukan pelaku atau objek hanya dari urutan kata."
+          ],
+          [
+            "Dalam أَكَلَ الْوَلَدُ التُّفَّاحَةَ, apa objeknya?",
+            "التُّفَّاحَةَ",
+            "الْوَلَدُ",
+            "أَكَلَ",
+            "Apel adalah sesuatu yang dimakan."
+          ],
+          [
+            "Pertanyaan untuk mencari objek dalam “Ali membawa tas” ialah …",
+            "Apa yang dibawa?",
+            "Siapa yang membawa?",
+            "Kapan Ali tiba?",
+            "Jawaban atas apa yang dibawa adalah tas."
+          ],
+          [
+            "Pilih bentuk objek untuk “aku membaca buku itu”.",
+            "قَرَأْتُ الْكِتَابَ",
+            "قَرَأْتُ الْكِتَابُ",
+            "قَرَأْتُ الْكِتَابِ",
+            "Al-kitāba adalah objek langsung yang manshub."
+          ]
+        ]
+      },
+      {
+        "id": 16,
+        "lesson": [
+          "Tiga akhir kata",
+          "قَلَمٌ، قَلَمًا، قَلَمٍ",
+          "Sebuah pena dalam tiga kedudukan",
+          "Isim tunggal yang sama bisa memiliki tiga akhir berbeda sesuai fungsinya. Contohnya قَلَمٌ dalam هَذَا قَلَمٌ menjadi khabar yang marfu’.",
+          "Dalam أَخَذْتُ قَلَمًا (aku mengambil pena), ia menjadi objek. Dalam بِقَلَمٍ (dengan pena), ia mengikuti huruf jar بِـ."
+        ],
+        "questions": [
+          [
+            "Lengkapi كَتَبْتُ بِـ…",
+            "قَلَمٍ",
+            "قَلَمًا",
+            "قَلَمٌ",
+            "Huruf بِـ membuat isim sesudahnya majrur."
+          ],
+          [
+            "Pilih bentuk objek dalam أَخَذْتُ …",
+            "قَلَمًا",
+            "قَلَمٌ",
+            "قَلَمٍ",
+            "Dalam أَخَذْتُ قَلَمًا (aku mengambil pena), ia menjadi objek. Dalam بِقَلَمٍ (dengan pena), ia mengikuti huruf jar بِـ."
+          ],
+          [
+            "Pilih akhir kata dalam هَذَا قَلَمٌ.",
+            "Dammatain",
+            "Kasratain",
+            "Fathatain",
+            "Qalamun adalah khabar marfu’ dan tak tentu."
+          ],
+          [
+            "Apa kedudukan قَلَمًا dalam اِشْتَرَيْتُ قَلَمًا?",
+            "Manshub",
+            "Majrur",
+            "Marfu’",
+            "Pena merupakan objek yang dibeli."
+          ],
+          [
+            "Pilih “dengan buku itu”.",
+            "بِالْكِتَابِ",
+            "بِالْكِتَابَ",
+            "بِالْكِتَابُ",
+            "Huruf jar bi membuat isim sesudahnya majrur."
+          ]
+        ]
+      },
+      {
+        "id": 17,
+        "lesson": [
+          "Membaca satu kalimat",
+          "وَضَعَ عَلِيٌّ الْقَلَمَ عَلَى الْمَكْتَبِ",
+          "Ali meletakkan pena itu di atas meja.",
+          "Mulai dari وَضَعَ (meletakkan). عَلِيٌّ menjawab “siapa?”, الْقَلَمَ menjawab “apa?”, dan عَلَى الْمَكْتَبِ menjawab “di mana?”.",
+          "Perhatikan tiga tanda akhir pada contoh. Pelaku marfu’, objek manshub, dan isim setelah عَلَى majrur. Fungsi masing-masing membantu memahami seluruh pesan."
+        ],
+        "questions": [
+          [
+            "Bagian mana menunjukkan lokasi?",
+            "عَلَى الْمَكْتَبِ",
+            "عَلِيٌّ",
+            "الْقَلَمَ",
+            "Frasa jar dan majrur ini menjelaskan tempat."
+          ],
+          [
+            "Mengapa الْقَلَمَ berakhir dengan fathah?",
+            "Ia objek langsung",
+            "Ia pelaku",
+            "Ia mengikuti huruf jar",
+            "Perhatikan tiga tanda akhir pada contoh. Pelaku marfu’, objek manshub, dan isim setelah عَلَى majrur. Fungsi masing-masing membantu memahami seluruh pesan."
+          ],
+          [
+            "Siapa pelaku pada contoh Ali meletakkan pena?",
+            "عَلِيٌّ",
+            "الْقَلَمَ",
+            "الْمَكْتَبِ",
+            "Ali melakukan tindakan meletakkan."
+          ],
+          [
+            "Mengapa الْمَكْتَبِ berakhir dengan kasrah?",
+            "Mengikuti عَلَى",
+            "Menjadi objek langsung",
+            "Menjadi pelaku",
+            "Ia isim majrur setelah huruf jar."
+          ],
+          [
+            "Pilih urutan analisis وَضَعَ عَلِيٌّ الْقَلَمَ.",
+            "Perbuatan, pelaku, objek",
+            "Pelaku, objek, perbuatan",
+            "Objek, pelaku, perbuatan",
+            "Waḍa‘a menyatakan tindakan, Ali pelakunya, dan pena objeknya."
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -3,6 +3,7 @@ import os
 from http.server import BaseHTTPRequestHandler
 
 import psycopg
+from accounts import schema
 from server import ArenaEndpoint, api
 
 
@@ -46,6 +47,7 @@ class handler(ArenaEndpoint, BaseHTTPRequestHandler):
                 if not _initialized:
                     conn.execute("CREATE TABLE IF NOT EXISTS players(id TEXT PRIMARY KEY, xp INTEGER NOT NULL, rp INTEGER NOT NULL)")
                     conn.execute("CREATE TABLE IF NOT EXISTS rooms(code TEXT PRIMARY KEY, body TEXT NOT NULL)")
+                    schema(PostgresArena(conn))
                 result = api(PostgresArena(conn), data)
             _initialized = True
             return result

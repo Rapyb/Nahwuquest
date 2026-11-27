@@ -11,6 +11,8 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlsplit
 
+from accounts import account_action, schema
+
 ROOT = Path(__file__).resolve().parent
 DB = os.environ.get("NAHWU_DB", str(ROOT / "arena.sqlite3"))
 QUESTS = {
@@ -50,6 +52,8 @@ def settle(room, now):
             room["phase"] = "result"
 
 def api(db, data):
+    if data.get("service") == "account":
+        return account_action(db, data)
     now = time.time()
     token = data.get("token")
     require(isinstance(token, str) and len(token) == 64 and all(c in "0123456789abcdef" for c in token), "Identitas pemain tidak valid.")
@@ -154,12 +158,12 @@ class ArenaEndpoint:
             return self.send_error(404)
         try:
             size = int(self.headers.get("Content-Length",0))
-            require(0<size<=4096,"Permintaan terlalu besar.")
+            require(0<size<=512000,"Permintaan terlalu besar.")
             require(self.headers.get_content_type()=="application/json","Format harus JSON.")
             data=json.loads(self.rfile.read(size))
             require(isinstance(data,dict),"Permintaan tidak valid.")
             output=self.run_action(data)
-            status=200
+            status=400 if "error" in output else 200
         except (ValueError, TypeError) as e:
             output,status={"error":str(e)},400
         except (sqlite3.Error, ConnectionError):
@@ -178,5 +182,7 @@ class Handler(ArenaEndpoint, SimpleHTTPRequestHandler):
 
 if __name__=="__main__":
     with closing(sqlite3.connect(DB)) as db:
+        schema(db)
+        db.commit()
         db.executescript("CREATE TABLE IF NOT EXISTS players(id TEXT PRIMARY KEY,xp INTEGER,rp INTEGER); CREATE TABLE IF NOT EXISTS rooms(code TEXT PRIMARY KEY,body TEXT);")
     ThreadingHTTPServer(("0.0.0.0",int(os.environ.get("PORT",8000))),Handler).serve_forever()
